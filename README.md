@@ -1,5 +1,5 @@
 # hello-github
-Github getting started for students
+Github getting started for students.
 
 To clone this repository open git bash and type:
 
@@ -19,7 +19,7 @@ To improve team-work it is important to write meaningful commit messages.
 
 Commit command sends your changes to your local repository.
 
-If you want to push them on remote repository type:
+If you want to push them on remote repository, type:
 ```
 git push origin master
 ```
@@ -29,7 +29,7 @@ If another developer pushes its changes on remote repository, you can pull them 
 ```
 git pull origin master
 ```
-To create a branch type:
+To create a branch, type:
 ```
 git branch myfirstbranch
 ```
