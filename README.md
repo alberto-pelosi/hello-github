@@ -23,5 +23,9 @@ If you want to push them on remote repository type:
 
 git push origin master
 
-Where origin is the name of you remote repository and master is the branch
+Where origin is the name of you remote repository and master is the branch.
+
+If another developer pushes its changes on remote repository, you can pull them with:
+
+git pull origin master
 
