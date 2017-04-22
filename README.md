@@ -29,3 +29,17 @@ If another developer pushes its changes on remote repository, you can pull them 
 
 git pull origin master
 
+To create a branch type:
+
+git branch myfirstbranch
+
+Then modify README.md and commit changes with:
+
+git add README.md
+
+git commit -m "This is my first branch commit"
+
+And then push it with:
+
+git push -u origin myfirstbranch
+
