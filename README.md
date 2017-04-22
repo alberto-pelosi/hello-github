@@ -42,3 +42,12 @@ And then push it with:
 ```
 git push -u
 ```
+
+To merge this myfirstbranch in master, type:
+```
+git checkout master
+git merge myfirtsbranch
+```
+
+Git documentation is available on: https://git-scm.com/documentation
+
