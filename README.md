@@ -36,9 +36,6 @@ git branch myfirstbranch
 Then modify README.md and commit changes with:
 ```
 git add README.md
-
-```
-```
 git commit -m "This is my first branch commit"
 ```
 And then push it with:
