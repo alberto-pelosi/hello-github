@@ -43,4 +43,8 @@ And then push it with:
 git push -u
 ```
 
-
+To merge this branch in master, type:
+```
+git checkout master
+git merge myfirtsbranch
+```
