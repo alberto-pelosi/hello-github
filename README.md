@@ -39,6 +39,6 @@ git add README.md
 git commit -m "This is my first branch commit"
 ```
 And then push it with:
-
+```
 git push -u
-
+```
