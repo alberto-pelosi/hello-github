@@ -9,7 +9,9 @@ Now that repository is cloned, change README.md and try to commit it.
 
 Before you have to stage the files you want to commit, so type:
 
+```
 git add README.md
+```
 
 Now you can commit:
 
