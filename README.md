@@ -1,5 +1,5 @@
 # hello-github
-github getting started for students
+Github getting started for students
 
 To clone this repository open git bash and type:
 
