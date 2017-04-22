@@ -49,5 +49,30 @@ git checkout master
 git merge myfirtsbranch
 ```
 
+If there are conflicts you need to resolve them using mergetool:
+
+```
+git mergetool
+```
+
+To use mergetool you need to configure git to use a specific merge tool.
+For example, if you want to use kdiff3 on windows, you have to download kdiff3 and then type the following in git bash:
+
+```
+git config --global --add merge.tool kdiff3
+git config --global --add mergetool.kdiff3.path "C:/Program Files/KDiff3/kdiff3.exe"
+git config --global --add mergetool.kdiff3.trustExitCode false
+```
+
+Now you can solve your conflicts with:
+
+```
+git mergetool
+```
+
+
+
+
+
 Git documentation is available on: https://git-scm.com/documentation
 
