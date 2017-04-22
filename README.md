@@ -43,7 +43,7 @@ And then push it with:
 git push -u
 ```
 
-To merge this myfirstbranch in master, type:
+To merge myfirstbranch on master, type:
 ```
 git checkout master
 git merge myfirtsbranch
@@ -69,9 +69,6 @@ Now you can solve your conflicts with:
 ```
 git mergetool
 ```
-
-
-
 
 
 Git documentation is available on: https://git-scm.com/documentation
