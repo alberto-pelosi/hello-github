@@ -19,7 +19,7 @@ To improve team-work it is important to write meaningful commit messages.
 
 Commit command sends your changes to your local repository.
 
-If you want to push them on remote repository, type:
+If you want to push it on remote repository, type:
 ```
 git push origin master
 ```
