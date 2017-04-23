@@ -70,7 +70,11 @@ Now you can solve your conflicts with:
 git mergetool
 ```
 
+Need help? Ask to git:
 
+```
+git help
+```
 
 
 
